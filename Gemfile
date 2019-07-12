@@ -50,7 +50,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'rmagick'
   gem 'carrierwave'
-  gem 'bootstrap-sass', '~> 3.2.0'
+  gem "bootstrap-sass", ">= 3.4.1"
   gem 'autoprefixer-rails'
   gem 'railties'
   gem 'lightbox2-rails'
